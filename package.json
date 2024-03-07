@@ -1,8 +1,8 @@
 {
-  "name": "@safe-global/safe-deployments",
-  "version": "1.33.0",
+  "name": "@butcher/safe-deployments",
+  "version": "1.33.1",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/safe-global/safe-deployments/",
+  "homepage": "https://github.com/butcher-blaviken/safe-deployments",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -23,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/safe-global/safe-deployments.git"
+    "url": "git+https://github.com/butcher-blaviken/safe-deployments.git"
   },
   "keywords": [
     "Ethereum",
     "Wallet",
     "Safe"
   ],
-  "author": "richard@safe.global",
+  "author": "butcher_of_blavikennnn@outlook.com",
   "bugs": {
     "url": "https://github.com/safe-global/safe-deployments/issues"
   },
